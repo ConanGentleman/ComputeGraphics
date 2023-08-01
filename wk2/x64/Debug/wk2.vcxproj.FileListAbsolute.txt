@@ -1,0 +1,2 @@
+F:\研究生\计算机图形学\work\pa0\wk2\x64\Debug\wk2.vcxproj.CopyComplete
+F:\master\compute graphics\work\pa0\wk2\x64\Debug\wk2.vcxproj.CopyComplete

@@ -1,0 +1,38 @@
+﻿  main.cpp
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(33,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(33,47): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(34,12): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(34,47): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(61,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(141,62): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Assignment2\wk2\main.cpp(159,62): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(46,19): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(46,16): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(69,32): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(70,32): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(88,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(89,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(134,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(135,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(136,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(136,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(138,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(138,50): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(141,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\rasterizer.cpp(204,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Triangle.cpp
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\DEV\vcpkg\installed\x64-windows\include\eigen3\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\master\compute graphics\work\Assignment2\wk2\Triangle.cpp(39,63): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\Triangle.cpp(39,49): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Assignment2\wk2\Triangle.cpp(39,35): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+  wk2.vcxproj -> F:\master\compute graphics\work\pa0\pa0\x64\Debug\wk2.exe

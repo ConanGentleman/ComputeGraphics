@@ -1,0 +1,46 @@
+﻿  main.cpp
+F:\master\compute graphics\work\Hw5\Code\global.hpp(22,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\global.hpp(25,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\global.hpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Object.hpp(16,1): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Object.hpp(16,1): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Scene.hpp(16,30): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Scene.hpp(18,19): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Triangle.hpp(17,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Triangle.hpp(18,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Triangle.hpp(19,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Triangle.hpp(83,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Triangle.hpp(84,1): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\main.cpp(17,49): warning C4305: “参数”: 从“double”到“float”截断
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(3416,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+F:\master\compute graphics\work\Hw5\Code\main.cpp(15): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(3416,56): warning C4244: “参数”: 从“_Ty”转换到“const float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+F:\master\compute graphics\work\Hw5\Code\main.cpp(19): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(3416,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+F:\master\compute graphics\work\Hw5\Code\main.cpp(33): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,double,0>(Vector3f &&,double &&)”的引用
+  Renderer.cpp
+F:\master\compute graphics\work\Hw5\Code\global.hpp(22,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\global.hpp(25,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\global.hpp(55,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Object.hpp(16,1): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Object.hpp(16,1): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Scene.hpp(16,30): warning C4305: “参数”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Scene.hpp(18,19): warning C4305: “初始化”: 从“double”到“float”截断
+F:\master\compute graphics\work\Hw5\Code\Renderer.cpp(8,20): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Renderer.cpp(215,46): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Renderer.cpp(226,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Renderer.cpp(227,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\master\compute graphics\work\Hw5\Code\Renderer.cpp(240,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
